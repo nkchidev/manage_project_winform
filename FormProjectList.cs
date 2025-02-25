@@ -35,8 +35,8 @@ namespace ProjectStorage
         private bool mShouldCreateNewDialogAtFirst;
         private System.Threading.Timer timer;
         private string nhomduan = "0";
-        private bool isEnalbleDuAn = true;
-
+        private bool isShowingHiddenProjects = false;
+        
         public FormProjectList()
         {
             System.Globalization.CultureInfo customCulture = (System.Globalization.CultureInfo)System.Threading.Thread.CurrentThread.CurrentCulture.Clone();
@@ -223,7 +223,7 @@ namespace ProjectStorage
             {
                 String year = null;
 
-                dataDuAn = DatabaseUtils.getInstance().GetListProject(year, false, false);
+                dataDuAn = DatabaseUtils.getInstance().GetListProject(year, false, false, isShowingHiddenProjects ? 0 : 1);
                 if (dataDuAn == null)
                 {
                     XtraMessageBox.Show("Không thể tải dữ liệu dự án", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -1016,7 +1016,7 @@ namespace ProjectStorage
         {
             try
             {
-                isEnalbleDuAn = false;
+                isShowingHiddenProjects = false;
                 dataDuAn = DatabaseUtils.getInstance().GetListProject(null, false, false, 0);
                 if (dataDuAn == null)
                 {
@@ -1056,6 +1056,19 @@ namespace ProjectStorage
                 }
                 refreshForm();
                 XtraMessageBox.Show("Đã ẩn các dự án thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void dsDuAn_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                isShowingHiddenProjects = false;
+                refreshForm();
+            }
+            catch (Exception ex)
+            {
+                XtraMessageBox.Show($"Lỗi khi tải dữ liệu: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
