@@ -182,11 +182,11 @@
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.qlqdgnvtoolStripMenuItem2,
+            this.dsDuAnHien,
+            this.dsDuAnDaAn,
             this.qlqdgnvtoolStripMenuItem,
             this.qlslthuchientoolStripMenuItem,
-            this.qlgtnghiemthutoolStripMenuItem,
-            this.dsDuAnDaAn,
-            this.dsDuAnHien});
+            this.qlgtnghiemthutoolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(263, 148);
             // 
@@ -786,7 +786,7 @@
             this.lblTenDuAn.Location = new System.Drawing.Point(19, 6);
             this.lblTenDuAn.Margin = new System.Windows.Forms.Padding(4);
             this.lblTenDuAn.Name = "lblTenDuAn";
-            this.lblTenDuAn.Size = new System.Drawing.Size(971, 17);
+            this.lblTenDuAn.Size = new System.Drawing.Size(1271, 17);
             this.lblTenDuAn.TabIndex = 2;
             this.lblTenDuAn.Text = "Tên dự án";
             // 
