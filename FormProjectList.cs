@@ -1,13 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using DevComponents.DotNetBar;
 using System.Threading;
 using DevExpress.XtraEditors;
 using ProjectStorage.Forms;
@@ -18,14 +14,8 @@ using DevExpress.XtraTreeList;
 using DevExpress.Utils;
 using DevExpress.XtraGrid.Views.Grid.ViewInfo;
 using DevExpress.XtraGrid.Views.Grid;
-using static Humanizer.In;
-using DevExpress.XtraGrid.Views.Base.ViewInfo;
-using System.Globalization;
-using DevExpress.XtraLayout;
 using System.IO;
 using System.Diagnostics;
-using DevExpress.ClipboardSource.SpreadsheetML;
-using DevExpress.Utils.About;
 
 namespace ProjectStorage
 {
@@ -35,7 +25,7 @@ namespace ProjectStorage
         private bool mShouldCreateNewDialogAtFirst;
         private System.Threading.Timer timer;
         private string nhomduan = "0";
-        private bool isShowingHiddenProjects = false;
+        private bool isDisableListProjects = false;
         
         public FormProjectList()
         {
@@ -223,7 +213,7 @@ namespace ProjectStorage
             {
                 String year = null;
 
-                dataDuAn = DatabaseUtils.getInstance().GetListProject(year, false, false, isShowingHiddenProjects ? 0 : 1);
+                dataDuAn = DatabaseUtils.getInstance().GetListProject(year, false, false, isDisableListProjects ? 0 : 1);
                 if (dataDuAn == null)
                 {
                     XtraMessageBox.Show("Không thể tải dữ liệu dự án", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -1016,16 +1006,9 @@ namespace ProjectStorage
         {
             try
             {
-                isShowingHiddenProjects = false;
-                dataDuAn = DatabaseUtils.getInstance().GetListProject(null, false, false, 0);
-                if (dataDuAn == null)
-                {
-                    XtraMessageBox.Show("Không thể tải dữ liệu dự án", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
-
-                gridControl1.DataSource = dataDuAn;
-                gridView1.BestFitColumns();
+                isDisableListProjects = true;
+                UpdateButtonText();
+                refreshForm();
             }
             catch (Exception ex)
             {
@@ -1063,7 +1046,8 @@ namespace ProjectStorage
         {
             try
             {
-                isShowingHiddenProjects = false;
+                isDisableListProjects = false;
+                UpdateButtonText();
                 refreshForm();
             }
             catch (Exception ex)
@@ -1077,12 +1061,18 @@ namespace ProjectStorage
             int[] selectedRows = gridView1.GetSelectedRows();
             if (selectedRows == null || selectedRows.Length == 0)
             {
-                XtraMessageBox.Show("Vui lòng chọn các dự án cần hiện", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                string warningMsg = isDisableListProjects ? 
+                    "Vui lòng chọn các dự án cần hiện" : 
+                    "Vui lòng chọn các dự án cần ẩn";
+                XtraMessageBox.Show(warningMsg, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
-            string msg = "Bạn có chắc chắn muốn hiện lại các dự án đã chọn?";
-            if (XtraMessageBox.Show(msg, "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            string confirmMsg = isDisableListProjects ?
+                "Bạn có chắc chắn muốn hiện lại các dự án đã chọn?" :
+                "Bạn có chắc chắn muốn ẩn các dự án đã chọn?";
+
+            if (XtraMessageBox.Show(confirmMsg, "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 foreach (int rowHandle in selectedRows)
                 {
@@ -1090,11 +1080,15 @@ namespace ProjectStorage
                     if (row != null)
                     {
                         string maCT = row["MaCT"].ToString();
-                        DatabaseUtils.getInstance().updateProjectVisibility(maCT, true);
+                        DatabaseUtils.getInstance().updateProjectVisibility(maCT, isDisableListProjects);
                     }
                 }
                 refreshForm();
-                XtraMessageBox.Show("Đã hiện lại các dự án thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                string successMsg = isDisableListProjects ?
+                    "Đã hiện các dự án thành công!" :
+                    "Đã ẩn các dự án thành công!";
+                XtraMessageBox.Show(successMsg, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
     }

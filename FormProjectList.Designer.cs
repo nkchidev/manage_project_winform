@@ -86,6 +86,7 @@
             this.qlslthuchientoolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.qlgtnghiemthutoolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dsDuAnDaAn = new System.Windows.Forms.ToolStripMenuItem();
+            this.dsDuAnHien = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
@@ -135,7 +136,6 @@
             this.lblTenDuAn = new DevExpress.XtraEditors.LabelControl();
             this.btnTaiTatCaFile = new DevExpress.XtraEditors.SimpleButton();
             this.btnThemFile = new DevExpress.XtraEditors.SimpleButton();
-            this.dsDuAnHien = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -188,7 +188,7 @@
             this.dsDuAnDaAn,
             this.dsDuAnHien});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(263, 176);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(263, 148);
             // 
             // qlqdgnvtoolStripMenuItem2
             // 
@@ -223,6 +223,13 @@
             this.dsDuAnDaAn.Text = "Danh sách dự án đã ẩn";
             this.dsDuAnDaAn.Click += new System.EventHandler(this.handleClickListProjectDisable);
             // 
+            // dsDuAnHien
+            // 
+            this.dsDuAnHien.Name = "dsDuAnHien";
+            this.dsDuAnHien.Size = new System.Drawing.Size(262, 24);
+            this.dsDuAnHien.Text = "Danh sách dự án đang hiện";
+            this.dsDuAnHien.Click += new System.EventHandler(this.dsDuAn_Click);
+            // 
             // panel1
             // 
             this.panel1.Controls.Add(this.panel3);
@@ -247,13 +254,13 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(472, 3);
+            this.button1.Location = new System.Drawing.Point(457, 3);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(113, 26);
             this.button1.TabIndex = 1;
             this.button1.Text = "Ẩn dự án";
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.btnHideSelectedProjects_Click);
+            this.button1.Click += new System.EventHandler(this.btnShowSelectedProjects_Click);
             // 
             // layoutControl1
             // 
@@ -779,7 +786,7 @@
             this.lblTenDuAn.Location = new System.Drawing.Point(19, 6);
             this.lblTenDuAn.Margin = new System.Windows.Forms.Padding(4);
             this.lblTenDuAn.Name = "lblTenDuAn";
-            this.lblTenDuAn.Size = new System.Drawing.Size(821, 17);
+            this.lblTenDuAn.Size = new System.Drawing.Size(971, 17);
             this.lblTenDuAn.TabIndex = 2;
             this.lblTenDuAn.Text = "Tên dự án";
             // 
@@ -804,13 +811,6 @@
             this.btnThemFile.TabIndex = 0;
             this.btnThemFile.Text = "Thêm file tài liệu";
             this.btnThemFile.Click += new System.EventHandler(this.btnThemFile_Click);
-            // 
-            // dsDuAnHien
-            // 
-            this.dsDuAnHien.Name = "dsDuAnHien";
-            this.dsDuAnHien.Size = new System.Drawing.Size(262, 24);
-            this.dsDuAnHien.Text = "Danh sách dự án đang hiện";
-            this.dsDuAnHien.Click += new System.EventHandler(this.dsDuAn_Click);
             // 
             // FormProjectList
             // 
@@ -913,5 +913,13 @@
         private System.Windows.Forms.ToolStripMenuItem dsDuAnDaAn;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ToolStripMenuItem dsDuAnHien;
+
+        private void UpdateButtonText()
+        {
+            if (button1 != null)
+            {
+                button1.Text = isDisableListProjects ? "Hiện dự án" : "Ẩn dự án";
+            }
+        }
     }
 }
