@@ -1,0 +1,679 @@
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.AssemblyReference.cache
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmAddGroupDuAn.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmAddUser.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmChangePassword.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmGroupDuAn.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmLogin.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmMain.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmPhanQuyen.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmUsers.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.HideThanhtoanColumnsDialog.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogImportTask.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogQuanlyPhongDoi.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuaPhong.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormTracuulichsumuonTB.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogLogin.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuachuaHis.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuachua.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormLichSuTraTB.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogChitietMuonThietBi.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuaThietBi.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormLichSuMuonTB.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThongKeDuAn.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuan.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuanHis.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormSuachuaHieuchuan.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogCreateNewAmountOfDevices.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThietbiOfChungloai.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogAddChungLoai.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormMDIMainApplication.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormChungLoai.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThongKeThietBi.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormTraThietBi.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogTaoThietBi.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormXuatKho.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormAddPhieuGiaoViec.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormProjectPhieuGiaoViec.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormProjectList.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThanhToanHangThang.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormAddProject.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormAddTask.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FormTaskDetail.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmDoimatkhau.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.BanGiao.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.LienHe.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.ProjectForm.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.Properties.Resources.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.XtraForm1.resources
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.GenerateResource.cache
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\quanly.exe.licenses
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.CoreCompileInputs.cache
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\quanly.exe.config
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\quanly.exe
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\quanly.pdb
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\Dapper.Contrib.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\Dapper.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.BonusSkins.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Data.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Drawing.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Images.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Printing.v22.2.Core.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Utils.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraBars.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraEditors.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraGrid.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraLayout.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\Humanizer.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\SimpleBroker.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\VBSQLHelper.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v22.2.Core.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Sparkline.v22.2.Core.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.RichEdit.v22.2.Core.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Office.v22.2.Core.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\Dapper.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\Dapper.Contrib.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Data.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Printing.v22.2.Core.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Utils.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraBars.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraEditors.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraGrid.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraLayout.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\Humanizer.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v22.2.Core.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Sparkline.v22.2.Core.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.RichEdit.v22.2.Core.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.Office.v22.2.Core.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\vi\Humanizer.resources.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.CopyComplete
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\quanly.exe
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\obj\Release\quanly.pdb
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.2.Core.Desktop.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.2.Core.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.2.dll
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.2.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\Software\FLUTTER_SDK\PROJECT\WinApp\NangCapAppBaHung\source + Database+yeu cau\ngoc_project\ngoc_project\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.AssemblyReference.cache
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmAddGroupDuAn.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmAddUser.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmChangePassword.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmGroupDuAn.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmLogin.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmMain.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmPhanQuyen.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmUsers.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.HideThanhtoanColumnsDialog.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogImportTask.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogQuanlyPhongDoi.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuaPhong.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormTracuulichsumuonTB.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogLogin.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuachuaHis.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuachua.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormLichSuTraTB.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogChitietMuonThietBi.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuaThietBi.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormLichSuMuonTB.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThongKeDuAn.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuan.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuanHis.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormSuachuaHieuchuan.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogCreateNewAmountOfDevices.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThietbiOfChungloai.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogAddChungLoai.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormMDIMainApplication.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormChungLoai.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThongKeThietBi.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormTraThietBi.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogTaoThietBi.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormXuatKho.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormAddPhieuGiaoViec.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormProjectPhieuGiaoViec.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormProjectList.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThanhToanHangThang.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormAddProject.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormAddTask.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FormTaskDetail.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmDoimatkhau.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.BanGiao.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.LienHe.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.ProjectForm.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.Properties.Resources.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.XtraForm1.resources
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.GenerateResource.cache
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\quanly.exe.licenses
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.CoreCompileInputs.cache
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\quanly.exe
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\quanly.pdb
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\quanly.exe.config
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\quanly.exe
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\quanly.pdb
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\Dapper.Contrib.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\Dapper.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevComponents.DotNetBar2.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.BonusSkins.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Data.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Drawing.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Images.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Printing.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Utils.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraBars.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraEditors.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraGrid.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraLayout.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.Core.Desktop.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v23.1.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\Humanizer.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\SimpleBroker.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\VBSQLHelper.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v23.1.Drawing.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Sparkline.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.RichEdit.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Office.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\Dapper.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\Dapper.Contrib.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Data.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Drawing.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Printing.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Utils.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraBars.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraEditors.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraGrid.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraLayout.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.Core.Desktop.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v23.1.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\Humanizer.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v23.1.Drawing.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Sparkline.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.RichEdit.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\DevExpress.Office.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\bin\Release\vi\Humanizer.resources.dll
+D:\FREELANCER\APP_WINFORM\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.CopyComplete
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\quanly.exe.config
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\quanly.exe
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\quanly.pdb
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\Dapper.Contrib.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\Dapper.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevComponents.DotNetBar2.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.BonusSkins.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Data.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Drawing.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Images.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Printing.v22.1.Core.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Utils.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraBars.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraEditors.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraGrid.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraLayout.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.Core.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v22.1.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\Humanizer.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\SimpleBroker.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\VBSQLHelper.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v22.1.Core.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v22.1.Drawing.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Sparkline.v22.1.Core.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.RichEdit.v22.1.Core.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Office.v22.1.Core.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\Dapper.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\Dapper.Contrib.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Data.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Printing.v22.1.Core.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Utils.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraBars.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraEditors.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraGrid.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraLayout.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.Core.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.Core.Desktop.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v22.1.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\Humanizer.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v22.1.Core.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Pdf.v22.1.Drawing.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Sparkline.v22.1.Core.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.RichEdit.v22.1.Core.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\DevExpress.Office.v22.1.Core.xml
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.Data.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.Data.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.Data.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.Utils.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.Utils.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.Utils.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.XtraGrid.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.XtraGrid.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.XtraGrid.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.XtraLayout.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.XtraLayout.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.XtraLayout.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.XtraScheduler.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.XtraScheduler.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.XtraScheduler.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\vi\Humanizer.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\de\DevExpress.Office.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\es\DevExpress.Office.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\bin\Release\ja\DevExpress.Office.v22.1.Core.resources.dll
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.AssemblyReference.cache
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmAddGroupDuAn.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmAddUser.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmChangePassword.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmGroupDuAn.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmLogin.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmMain.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmPhanQuyen.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmPhieuGiaoNhan.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmUsers.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.HideThanhtoanColumnsDialog.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogImportTask.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogQuanlyPhongDoi.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuaPhong.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormTracuulichsumuonTB.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogLogin.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuachuaHis.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuachua.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormLichSuTraTB.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogChitietMuonThietBi.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogSuaThietBi.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormLichSuMuonTB.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThongKeDuAn.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuan.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuanHis.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormSuachuaHieuchuan.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogCreateNewAmountOfDevices.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThietbiOfChungloai.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogAddChungLoai.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormMDIMainApplication.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormChungLoai.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThongKeThietBi.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormTraThietBi.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.DialogTaoThietBi.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormXuatKho.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormAddPhieuGiaoViec.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormProjectPhieuGiaoViec.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormProjectList.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormThanhToanHangThang.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormAddProject.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormAddTask.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FormTaskDetail.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.FrmDoimatkhau.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.BanGiao.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.LienHe.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.ProjectForm.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.Properties.Resources.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.XtraForm1.resources
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.GenerateResource.cache
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\quanly.exe.licenses
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.CoreCompileInputs.cache
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\ProjectStorage.csproj.CopyComplete
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\quanly.exe
+D:\Lap trinh\Project quan ly\quanly2024\quanly\ProjectStorage\obj\Release\quanly.pdb
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\quanly.exe.config
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\quanly.exe
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\quanly.pdb
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\Dapper.Contrib.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\Dapper.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevComponents.DotNetBar2.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.BonusSkins.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Data.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Drawing.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Images.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Printing.v22.1.Core.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Utils.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraBars.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraEditors.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraGrid.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraLayout.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.Core.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v22.1.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\Humanizer.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\SimpleBroker.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\VBSQLHelper.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Pdf.v22.1.Core.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Pdf.v22.1.Drawing.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Sparkline.v22.1.Core.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.RichEdit.v22.1.Core.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Office.v22.1.Core.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\Dapper.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\Dapper.Contrib.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Data.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Printing.v22.1.Core.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Utils.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraBars.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraEditors.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraGrid.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraLayout.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.Core.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v22.1.Core.Desktop.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v22.1.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\Humanizer.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Pdf.v22.1.Core.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Pdf.v22.1.Drawing.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Sparkline.v22.1.Core.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.RichEdit.v22.1.Core.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\DevExpress.Office.v22.1.Core.xml
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.Data.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.Data.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.Data.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.Utils.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.Utils.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.Utils.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.XtraGrid.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.XtraGrid.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.XtraGrid.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.XtraLayout.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.XtraLayout.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.XtraLayout.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.XtraScheduler.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.XtraScheduler.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.XtraScheduler.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\vi\Humanizer.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\de\DevExpress.Office.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\es\DevExpress.Office.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\bin\Release\ja\DevExpress.Office.v22.1.Core.resources.dll
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.AssemblyReference.cache
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FrmAddGroupDuAn.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FrmAddUser.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FrmChangePassword.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FrmGroupDuAn.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FrmLogin.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmMain.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmPhanQuyen.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FrmPhieuGiaoNhan.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FrmUsers.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.HideThanhtoanColumnsDialog.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogImportTask.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogQuanlyPhongDoi.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuaPhong.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormTracuulichsumuonTB.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogLogin.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuachuaHis.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuachua.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormLichSuTraTB.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogChitietMuonThietBi.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuaThietBi.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormLichSuMuonTB.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormThongKeDuAn.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuan.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuanHis.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormSuachuaHieuchuan.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogCreateNewAmountOfDevices.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormThietbiOfChungloai.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogAddChungLoai.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormMDIMainApplication.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormChungLoai.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormThongKeThietBi.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormTraThietBi.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.DialogTaoThietBi.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormXuatKho.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormAddPhieuGiaoViec.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormProjectPhieuGiaoViec.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormProjectList.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormThanhToanHangThang.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormAddProject.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormAddTask.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FormTaskDetail.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.FrmDoimatkhau.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.BanGiao.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.LienHe.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.ProjectForm.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.Properties.Resources.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.XtraForm1.resources
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.GenerateResource.cache
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\quanly.exe.licenses
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.CoreCompileInputs.cache
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.CopyComplete
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\quanly.exe
+D:\THO2\OneDrive\02_Cong Viec\01_Tho SNOS\02_Du an\02_AHung\20240503_ChinhSuPMDuToan\02_Xu ly\V2_2024\ProjectStorage\obj\Release\quanly.pdb
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\quanly.exe.config
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\quanly.exe
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\quanly.pdb
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\Dapper.Contrib.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\Dapper.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevComponents.DotNetBar2.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.BonusSkins.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Data.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Drawing.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Images.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Printing.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Utils.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraBars.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraEditors.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraGrid.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraLayout.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.Core.Desktop.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v23.1.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\ExcelDataReader.DataSet.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\ExcelDataReader.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\Humanizer.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\MiniExcel.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\SimpleBroker.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\VBSQLHelper.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Pdf.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Pdf.v23.1.Drawing.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Sparkline.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.RichEdit.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Office.v23.1.Core.dll
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\Dapper.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\Dapper.Contrib.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Data.Desktop.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Data.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Drawing.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Printing.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Utils.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraBars.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraEditors.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraGrid.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraLayout.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraPrinting.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraScheduler.v23.1.Core.Desktop.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.XtraTreeList.v23.1.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\ExcelDataReader.pdb
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\ExcelDataReader.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\ExcelDataReader.DataSet.pdb
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\ExcelDataReader.DataSet.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Pdf.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Pdf.v23.1.Drawing.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Sparkline.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.RichEdit.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\bin\Release\DevExpress.Office.v23.1.Core.xml
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.AssemblyReference.cache
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmAddGroupDuAn.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmAddUser.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmChangePassword.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmGroupDuAn.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmLogin.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmMain.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmPhanQuyen.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmPhieuGiaoNhan.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmUsers.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormTest.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.HideThanhtoanColumnsDialog.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogImportTask.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogQuanlyPhongDoi.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuaPhong.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormTracuulichsumuonTB.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogLogin.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuachuaHis.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuachua.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormLichSuTraTB.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogChitietMuonThietBi.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuaThietBi.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormLichSuMuonTB.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormThongKeDuAn.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuan.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuanHis.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormSuachuaHieuchuan.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogCreateNewAmountOfDevices.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormThietbiOfChungloai.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogAddChungLoai.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormMDIMainApplication.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormChungLoai.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormThongKeThietBi.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormTraThietBi.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogTaoThietBi.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormXuatKho.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormAddPhieuGiaoViec.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormProjectPhieuGiaoViec.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormProjectList.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormThanhToanHangThang.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormAddProject.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormAddTask.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormTaskDetail.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmDoimatkhau.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.BanGiao.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.LienHe.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.ProjectForm.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.Properties.Resources.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.XtraForm1.resources
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.GenerateResource.cache
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\quanly.exe.licenses
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.CoreCompileInputs.cache
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\ProjectS.7BC981FD.Up2Date
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\quanly.exe
+D:\FREELANCER\APP_WINFORM\BA HUNG IMPORT\DangLam\V3_2024\ProjectStorage\obj\Release\quanly.pdb
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.AssemblyReference.cache
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmAddGroupDuAn.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmAddUser.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmChangePassword.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmGroupDuAn.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmLogin.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmMain.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.Forms.FrmPhanQuyen.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmPhieuGiaoNhan.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmUsers.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormTest.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.HideThanhtoanColumnsDialog.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogImportTask.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogQuanlyPhongDoi.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuaPhong.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormTracuulichsumuonTB.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogLogin.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuachuaHis.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuachua.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormLichSuTraTB.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogChitietMuonThietBi.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogSuaThietBi.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormLichSuMuonTB.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormThongKeDuAn.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuan.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogHieuchuanHis.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormSuachuaHieuchuan.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogCreateNewAmountOfDevices.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormThietbiOfChungloai.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogAddChungLoai.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormMDIMainApplication.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormChungLoai.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormThongKeThietBi.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormTraThietBi.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.DialogTaoThietBi.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormXuatKho.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormAddPhieuGiaoViec.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormProjectPhieuGiaoViec.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormProjectList.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormThanhToanHangThang.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormAddProject.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormAddTask.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FormTaskDetail.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.FrmDoimatkhau.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.BanGiao.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.LienHe.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.ProjectForm.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.Properties.Resources.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.XtraForm1.resources
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.GenerateResource.cache
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\quanly.exe.licenses
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\ProjectStorage.csproj.CoreCompileInputs.cache
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\quanly.exe
+F:\New Volume\Lap trinh\Project quan ly\V4_2024\V3_2024\ProjectStorage\obj\Release\quanly.pdb

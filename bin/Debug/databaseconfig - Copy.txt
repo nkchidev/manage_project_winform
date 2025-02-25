@@ -1,0 +1,1 @@
+Server=DESKTOP-FPUVNV1\SQL2019;database=quanlycongtrinh;uid=sa;pwd=1
