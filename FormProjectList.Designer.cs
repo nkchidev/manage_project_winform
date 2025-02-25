@@ -295,7 +295,7 @@
             this.gridColumn7,
             this.gridColumn8,
             this.gridColumn5,
-            this.colThemDuAn,
+            // this.colThemDuAn,
             this.colSuaDuAn,
             this.colXoaDuAn,
             this.colAnHien});
@@ -307,7 +307,7 @@
             formatConditionRuleValue1.Condition = DevExpress.XtraEditors.FormatCondition.Expression;
             formatConditionRuleValue1.Expression = "[songay] >= 0 And [songay] <= 10 And [ngay_ky] Is Not Null And [ngay_hoan_thanh] " +
     "Is Not Null And [trangthai] = \'Đang thực hiện\'";
-            gridFormatRule1.Rule = formatConditionRuleValue1;
+            // gridFormatRule1.Rule = formatConditionRuleValue1;
             gridFormatRule2.ApplyToRow = true;
             gridFormatRule2.Name = "Quahan";
             formatConditionRuleValue2.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
@@ -315,14 +315,14 @@
             formatConditionRuleValue2.Condition = DevExpress.XtraEditors.FormatCondition.Expression;
             formatConditionRuleValue2.Expression = "[songay] < 0 And [ngay_ky] IS NOT NULL And [ngay_hoan_thanh] IS NOT NULL  And [tr" +
     "angthai]=\'Đang thực hiện\'";
-            gridFormatRule2.Rule = formatConditionRuleValue2;
+            // gridFormatRule2.Rule = formatConditionRuleValue2;
             gridFormatRule3.ApplyToRow = true;
             gridFormatRule3.Name = "Hoanthanh";
             formatConditionRuleValue3.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             formatConditionRuleValue3.Appearance.Options.UseBackColor = true;
             formatConditionRuleValue3.Condition = DevExpress.XtraEditors.FormatCondition.Expression;
             formatConditionRuleValue3.Expression = "[trangthai] = \'Hoàn thành\'";
-            gridFormatRule3.Rule = formatConditionRuleValue3;
+            // gridFormatRule3.Rule = formatConditionRuleValue3;
             this.gridView1.FormatRules.Add(gridFormatRule1);
             this.gridView1.FormatRules.Add(gridFormatRule2);
             this.gridView1.FormatRules.Add(gridFormatRule3);
