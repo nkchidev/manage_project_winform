@@ -1030,5 +1030,31 @@ namespace ProjectStorage
                 XtraMessageBox.Show($"Lỗi khi tải dữ liệu: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void btnHideSelectedProjects_Click(object sender, EventArgs e)
+        {
+            int[] selectedRows = gridView1.GetSelectedRows();
+            if (selectedRows == null || selectedRows.Length == 0)
+            {
+                XtraMessageBox.Show("Vui lòng chọn các dự án cần ẩn", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            string msg = "Bạn có chắc chắn muốn ẩn các dự án đã chọn?";
+            if (XtraMessageBox.Show(msg, "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                foreach (int rowHandle in selectedRows)
+                {
+                    DataRow row = gridView1.GetDataRow(rowHandle);
+                    if (row != null)
+                    {
+                        string maCT = row["MaCT"].ToString();
+                        DatabaseUtils.getInstance().updateProjectVisibility(maCT, false);
+                    }
+                }
+                refreshForm();
+                XtraMessageBox.Show("Đã ẩn các dự án thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
     }
 }
