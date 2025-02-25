@@ -35,6 +35,7 @@ namespace ProjectStorage
         private bool mShouldCreateNewDialogAtFirst;
         private System.Threading.Timer timer;
         private string nhomduan = "0";
+        private bool isEnalbleDuAn = true;
 
         public FormProjectList()
         {
@@ -1015,6 +1016,7 @@ namespace ProjectStorage
         {
             try
             {
+                isEnalbleDuAn = false;
                 dataDuAn = DatabaseUtils.getInstance().GetListProject(null, false, false, 0);
                 if (dataDuAn == null)
                 {
@@ -1054,6 +1056,32 @@ namespace ProjectStorage
                 }
                 refreshForm();
                 XtraMessageBox.Show("Đã ẩn các dự án thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void btnShowSelectedProjects_Click(object sender, EventArgs e)
+        {
+            int[] selectedRows = gridView1.GetSelectedRows();
+            if (selectedRows == null || selectedRows.Length == 0)
+            {
+                XtraMessageBox.Show("Vui lòng chọn các dự án cần hiện", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            string msg = "Bạn có chắc chắn muốn hiện lại các dự án đã chọn?";
+            if (XtraMessageBox.Show(msg, "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                foreach (int rowHandle in selectedRows)
+                {
+                    DataRow row = gridView1.GetDataRow(rowHandle);
+                    if (row != null)
+                    {
+                        string maCT = row["MaCT"].ToString();
+                        DatabaseUtils.getInstance().updateProjectVisibility(maCT, true);
+                    }
+                }
+                refreshForm();
+                XtraMessageBox.Show("Đã hiện lại các dự án thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
     }
